@@ -4,8 +4,7 @@
 
 🎓 I am Amir Naqib, a **Fullstack Developer** (specializing in **Laravel Application**) and a [**Freelancer**]. I am also completed my Diploma in **System Development & Web Application** at **Gerik Vocational College**.
 
-👨‍💻 I enjoy programming or contributing to **Open Projects** and have contributed to several Organizations including, **Railway Assets Coorporation**, **Polyware Sdn Bhd**, **Tech Harvest**, **Malaysian Association Of Medical Physics**, and countless others. I am really enthusiastic about learning new technology. By Far, I 've learned **Nest.js**, **Progressive Web App (PWA)**, **GraphQL** and **Micro-Frontend Architecture**.
-
+👨‍💻 I enjoy programming or contributing to **Open Projects** and have contributed to several Organizations including, **Railway Assets Coorporation**, **Polyware Sdn Bhd**, **Tech Harvest**, **Malaysian Association Of Medical Physics**, and countless others. I am really enthusiastic about learning new technology.
 ## 🛠️ Skills
 
 ### Languages
